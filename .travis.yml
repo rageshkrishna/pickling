@@ -5,9 +5,3 @@ scala:
   - 2.10.3
 jdk:
   - openjdk7
-  - oraclejdk7
-notifications:
-  email:
-    - heather.miller@epfl.ch
-    - eugene.burmako@epfl.ch
-    - philipp.haller@typesafe.com
